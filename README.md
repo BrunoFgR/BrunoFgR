@@ -1,10 +1,12 @@
 ### Hi there 👋
 
 ### My Status Card
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFgR&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFgR&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFgR&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFgR&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
