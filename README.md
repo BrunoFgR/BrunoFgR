@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## Status Profile
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=brunoFgR&show_icons=true&theme=dracula" />
+<p align='center'>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunoFgR&show_icons=true&theme=dracula" />
+</p>
 <!-- ![Anurag's GitHub stats]() -->
 
 
