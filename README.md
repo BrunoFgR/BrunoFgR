@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ## Status Profile
-<p align='center'>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoFgR&show_icons=true&theme=dracula)
-</p>
+![Anurag's GitHub stat](https://github-readme-stats.vercel.app/api?username=brunoFgR&show_icons=true&theme=dracula)
+
 
 
 ## Top Languages
