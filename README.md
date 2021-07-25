@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Status Profile
-<p style="text-align: center">
+<p align='center'>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoFgR&show_icons=true&theme=dracula)
 </p>
 
