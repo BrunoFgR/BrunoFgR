@@ -37,4 +37,4 @@ Feel free to explore my repositories and get in touch for discussions about tech
 
 ---
 
-⭐️ Created with ❤️ by Bruno Figueiredo
+⭐️ Created with ❤️ by BrunoFgR
